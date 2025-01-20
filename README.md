@@ -1,6 +1,6 @@
 <h1 align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&letterSpacing=-1&pause=1000&color=B8B8B8&width=435&lines=Assalamu+Alaikum!;This+is+Sazidur+Rahman;A+young+passionate+soul+%F0%9F%95%8A" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&letterSpacing=-1&pause=1000&color=B8B8B8&width=435&lines=This+is+Sazidur+Rahman;A+young+passionate+soul+%F0%9F%95%8A" alt="Typing SVG"/>
   </a>
 </h1>
 <a href="https://visitcount.itsvg.in">
@@ -9,9 +9,9 @@
 
 ## 💫 About Me:
 - 🔭 Currently focused on **Frontend Web Development**.
-- 🌱 Aspiring to become an expert in **MERN Stack Development**.
+- 🌱 Aspiring to become an expert in **Hardcore Programmer**.
 - 💻 I love exploring new tech stacks and building creative projects.
-- 🥅 **2024 Goals**: Master **React.js**.
+- 🥅 **2025 Goals**: Explore **Web3 Development**.
 - ⚡ **Fun Fact**: In JavaScript, `===` is not always equal to `==`. **XD**
 
 ---
