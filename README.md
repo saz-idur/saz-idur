@@ -9,9 +9,9 @@
 
 ## 💫 About Me:
 - 🔭 Currently focused on **Frontend Web Development**.
-- 🌱 Aspiring to become an expert in **Hardcore Programmer**.
+- 🌱 Aspiring to become an **Hardcore Programmer**.
 - 💻 I love exploring new tech stacks and building creative projects.
-- 🥅 **2025 Goals**: Explore **Web3 Development**.
+- 🥅 **2025 Goals**: Explore **Web3 & AI**.
 - ⚡ **Fun Fact**: In JavaScript, `===` is not always equal to `==`. **XD**
 
 ---
@@ -49,9 +49,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="Next.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
   <img width="12" />
