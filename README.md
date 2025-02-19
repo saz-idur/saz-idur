@@ -8,7 +8,7 @@
 </a>
 
 ## 💫 About Me:
-- 🔭 Currently focused on **Frontend Web Development**.
+- 🔭 Currently focused on **WebAPP and AI Agent Development**.
 - 🌱 Aspiring to become an **Hardcore Programmer**.
 - 💻 I love exploring new tech stacks and building creative projects.
 - 🥅 **2025 Goals**: Explore **Web3 & AI**.
